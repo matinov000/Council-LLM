@@ -4,7 +4,7 @@ import ChatInterface from './components/ChatInterface';
 import { api } from './api';
 import './App.css';
 
-const PASSWORD = 'Omar@1980';
+const PASSWORD = 'Mohamed@&1279';
 
 function Login({ onLogin }) {
   const [input, setInput] = useState('');
